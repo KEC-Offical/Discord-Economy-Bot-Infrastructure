@@ -1,2 +1,2 @@
-# Discord-Economy-Bot--nfrastructure
-KEC™ | YouTube® Discord Server Economy Bot İnfrastructure
+# Discord-Economy-Bot-Infrastructure
+Developed by KEC™ | YouTube® Developer Team. / Economy Bot open source codes..
